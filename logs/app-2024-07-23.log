@@ -1,0 +1,233 @@
+2024-07-23 12:37:48 [32minfo[39m: 串口列表:[object Object]
+2024-07-23 12:37:59 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:37:59 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:37:59 [32minfo[39m: Rev:
+
+2024-07-23 12:38:13 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:38:13 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:38:13 [32minfo[39m: Rev:
+
+2024-07-23 12:38:16 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:38:16 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+
+2024-07-23 12:38:19 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:38:19 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:38:19 [32minfo[39m: Rev:
+
+2024-07-23 12:38:29 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:38:29 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:38:29 [32minfo[39m: Rev:
+
+2024-07-23 12:38:31 [32minfo[39m: Close:Error: Reading from COM port (ReadIOCompletion): Access denied
+2024-07-23 12:38:38 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x37 (S
+2024-07-23 12:38:38 [32minfo[39m: Rev:PI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_dr
+2024-07-23 12:38:38 [32minfo[39m: Rev:v:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO
+2024-07-23 12:38:38 [32minfo[39m: Rev:, clock div:2
+load:0x3fff0030,len:4728
+load:0x40078000,len:148
+2024-07-23 12:38:38 [32minfo[39m: Rev:88
+load:0x40080400,len:3368
+entry 0x400805cc
+
+2024-07-23 12:38:39 [32minfo[39m: Rev:MicroPython v1.22.1 on 2024-01-05; Generic ESP32 module with ESP
+2024-07-23 12:38:39 [32minfo[39m: Rev:32
+Type "help()" for more information.
+>>> 
+2024-07-23 12:39:06 [32minfo[39m: Sent data: help()
+2024-07-23 12:39:06 [32minfo[39m: Rev:help()
+2024-07-23 12:39:23 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:39:23 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:39:23 [32minfo[39m: Rev:
+
+2024-07-23 12:39:27 [32minfo[39m: Close:Error: Reading from COM port (ReadIOCompletion): Access denied
+2024-07-23 12:39:32 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x37 (S
+2024-07-23 12:39:32 [32minfo[39m: Rev:PI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_dr
+2024-07-23 12:39:32 [32minfo[39m: Rev:v:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO
+2024-07-23 12:39:32 [32minfo[39m: Rev:, clock div:2
+load:0x3fff0030,len:4728
+load:0x40078000,len:148
+2024-07-23 12:39:32 [32minfo[39m: Rev:88
+load:0x40080400,len:3368
+entry 0x400805cc
+
+2024-07-23 12:39:33 [32minfo[39m: Rev:MicroPython v1.22.1 on 2024-01-05; Generic ESP32 module with ESP
+2024-07-23 12:39:33 [32minfo[39m: Rev:32
+Type "help()" for more information.
+>>> 
+2024-07-23 12:39:50 [32minfo[39m: Sent data: help()
+2024-07-23 12:39:50 [32minfo[39m: Rev:help()
+2024-07-23 12:39:55 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:39:55 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:39:55 [32minfo[39m: Rev:
+
+2024-07-23 12:39:59 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:39:59 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:39:59 [32minfo[39m: Rev:
+
+2024-07-23 12:40:00 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:00 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:00 [32minfo[39m: Rev:
+
+2024-07-23 12:40:01 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:01 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:01 [32minfo[39m: Rev:
+
+2024-07-23 12:40:02 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:02 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:02 [32minfo[39m: Rev:
+
+2024-07-23 12:40:03 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:03 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:03 [32minfo[39m: Rev:
+
+2024-07-23 12:40:04 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:05 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:05 [32minfo[39m: Rev:
+
+2024-07-23 12:40:06 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:06 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:06 [32minfo[39m: Rev:
+
+2024-07-23 12:40:07 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:07 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:07 [32minfo[39m: Rev:
+
+2024-07-23 12:40:07 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:07 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:07 [32minfo[39m: Rev:
+
+2024-07-23 12:40:08 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:08 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:08 [32minfo[39m: Rev:
+
+2024-07-23 12:40:09 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:09 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:09 [32minfo[39m: Rev:
+
+2024-07-23 12:40:10 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:10 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:10 [32minfo[39m: Rev:
+
+2024-07-23 12:40:10 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:10 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:10 [32minfo[39m: Rev:
+
+2024-07-23 12:40:11 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:11 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:11 [32minfo[39m: Rev:
+
+2024-07-23 12:40:11 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:11 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:11 [32minfo[39m: Rev:
+
+2024-07-23 12:40:12 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:12 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:12 [32minfo[39m: Rev:
+
+2024-07-23 12:40:13 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:13 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:13 [32minfo[39m: Rev:
+
+2024-07-23 12:40:14 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:14 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:14 [32minfo[39m: Rev:
+
+2024-07-23 12:40:15 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:15 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:15 [32minfo[39m: Rev:
+
+2024-07-23 12:40:16 [32minfo[39m: Rev:ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x27 (D
+2024-07-23 12:40:16 [32minfo[39m: Rev:OWNLOAD_BOOT(UART0/UART1/SDIO_REI_REO_V2))
+waiting for download
+2024-07-23 12:40:16 [32minfo[39m: Rev:
+
